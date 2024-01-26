@@ -106,19 +106,19 @@
 // console.log("Cavab:", cavab);
 
 // !8-ci mesele
-const eded = parseFloat(prompt("Zəhmət olmasa əqəmi daxil edin:"))
+// const eded = parseFloat(prompt("Zəhmət olmasa əqəmi daxil edin:"))
 
-function vurmaHesabati(eded){
-    let cedvel = "";
-    for ( let i = 1; i <= eded; i++) {
-        for ( let k = 1; k <= 10; k++) {
-            cedvel += ( i * k) + "\t";
-        }
-        cedvel += "\n";
-    }
-    return cedvel;
-}
- console.log(vurmaHesabati(eded));
+// function vurmaHesabati(eded){
+//     let cedvel = "";
+//     for ( let i = 1; i <= eded; i++) {
+//         for ( let k = 1; k <= 10; k++) {
+//             cedvel += ( i * k) + "\t";
+//         }
+//         cedvel += "\n";
+//     }
+//     return cedvel;
+// }
+//  console.log(vurmaHesabati(eded));
 
 // !9-cu mesele(Kodunu yalandan yazmadim. Prinsipini anlamamışam)
 
